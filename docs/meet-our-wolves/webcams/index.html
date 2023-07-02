@@ -5,8 +5,11 @@
     <link rel="stylesheet" href="/light.min.css">
     <style>
         .gray {color: #ababab;}
-        .h {aspect-ratio: 16 / 9; width: 100%; }
+        .h {aspect-ratio: 16 / 9; width: 100%; max-width: 800px; }
         .v {aspect-ratio: 9 / 16; width: 400px; }
+        @media screen and (max-width: 450px) {
+            .v { width: 100%; }
+        }
     </style>
 </head>
 <body>
