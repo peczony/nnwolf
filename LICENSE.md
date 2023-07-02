@@ -1,3 +1,7 @@
+*`light.min.css` is Water.css by Kognise (<https://kognise.dev>) and is MIT licensed (see <https://github.com/kognise/water.css/blob/master/LICENSE.md>).*
+
+*Everything else is licensed under the Unlicense (see terms below).*
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
